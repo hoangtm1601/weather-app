@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="_22_01">22:01</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">931278250378444</string>
+    <string name="fb_login_protocol_scheme">fb931278250378444</string>
+</resources>
